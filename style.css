@@ -5,16 +5,17 @@
           box-sizing: border-box;
 }
 
-body {
+header {
   font-family: 'Nanum Myeongjo', serif;
-}
-
-body .moncv {
   background-image: url(./Imagens/galaxy-2150186.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 45rem;
-  width: 100vw;
+  height: 50rem;
+  width: 90vw;
+}
+
+body .aboutme {
+  font-family: 'Nanum Myeongjo', serif;
 }
 /*# sourceMappingURL=style.css.map */
