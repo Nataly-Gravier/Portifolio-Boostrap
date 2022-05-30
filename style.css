@@ -15,17 +15,12 @@ header {
   width: 90vw;
 }
 
-html {
+body {
   font-family: 'Nanum Myeongjo', serif;
 }
 
 @media screen and (max-width: 1024px) {
   header {
-    font-family: 'Nanum Myeongjo', serif;
-    background-image: url(./Imagens/galaxy-2150186.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 35rem;
     width: 100vw;
   }
@@ -33,11 +28,6 @@ html {
 
 @media screen and (max-width: 768px) {
   header {
-    font-family: 'Nanum Myeongjo', serif;
-    background-image: url(./Imagens/galaxy-2150186.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 35rem;
     width: 100vw;
   }
